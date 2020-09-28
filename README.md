@@ -2,7 +2,7 @@
 
 This is a DEMO
 
-![Alt text](./DEMO.PNG?raw=true 'INSTAGRAM-CLONE-REACT')
+![Alt text](./DEMO.JPG?raw=true 'INSTAGRAM-CLONE-REACT')
 
 # First Step
 
